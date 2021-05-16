@@ -241,11 +241,6 @@ https:\/\/m\.ctrip\.com\/restapi\/soa2\/14946\/json\/userBaseInfo url script-req
 ^https:\/\/wx\.17u\.cn\/wcsign\/sign\/GetSignInfo url script-request-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/tongc_cookie.js
 
 
-# 新浪新闻(By @Macsuny)
-https:\/\/newsapi\.sina\.cn\/\?resource=hbpage&newsId=HB-1-sina_gold_center url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sinanews.js
-https:\/\/newsapi\.sina\.cn\/\?resource=userpoint\/signIn url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sinanews.js
-
-
 # 楼兰小说论坛 (By @iNotification)
 ^https:\/\/www\.lltxt\.com/hack\.php\?H_name=qiandao&action=qiandao url script-request-header https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/loulancheck.js
 
